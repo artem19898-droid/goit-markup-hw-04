@@ -437,3 +437,17 @@ color: #f4f4fd;
         color: #f4f4fd;
         max-width: 264px;
 }
+
+.text-social {
+        font-weight: 500;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #FFFFFF;
+        margin-bottom: 16px;
+}
+
+.conteiner-footer {
+        display: flex;
+        align-items: baseline;
+        margin-right: 120px
+}
